@@ -23,6 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 
+[![An image of @praggyav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praggyav)](https://holopin.io/@praggyav)
+
 <!--## 📊 Github Stats-->
 | Stats    | Streak    |
 | :---: | :---: |
