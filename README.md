@@ -60,5 +60,4 @@ Developer Tools
 
 ## <img src="https://64.media.tumblr.com/159686dd4f5e62de03e18a3134e334cf/f3f25620bf23c51a-82/s75x75_c1/327fbf735740f3b81ec6a81d77010cfc9c21ec55.gifv" alt="GIF" width="30" height="30"/> &nbsp; My Github Stats
 
-![Praggya's GitHub stats](https://github-readme-stats.vercel.app/api?username=praggyaverma&theme=radical_icons=true)
-
+![Praggya's GitHub stats](https://github-readme-stats.vercel.app/api?username=praggyaverma&show_icons=true&theme=jolly&bg_color=00000000)
