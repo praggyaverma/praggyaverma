@@ -48,10 +48,6 @@ Developer Tools
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=VisualStudio)&nbsp;
 
 
-## <img src="https://64.media.tumblr.com/159686dd4f5e62de03e18a3134e334cf/f3f25620bf23c51a-82/s75x75_c1/327fbf735740f3b81ec6a81d77010cfc9c21ec55.gifv" alt="GIF" width="30" height="30"/> &nbsp; My Hacktoberfest 2023 Holopin collection 🚀
-[![An image of @praggyav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praggyav)](https://holopin.io/@praggyav)
-
-
 ## <img src="https://64.media.tumblr.com/159686dd4f5e62de03e18a3134e334cf/f3f25620bf23c51a-82/s75x75_c1/327fbf735740f3b81ec6a81d77010cfc9c21ec55.gifv" alt="GIF" width="30" height="30"/> &nbsp; Find me on
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/praggyaverma/)
@@ -63,3 +59,7 @@ Developer Tools
 ![Praggya's GitHub stats](https://github-readme-stats.vercel.app/api?username=praggyaverma&show_icons=true&theme=jolly&bg_color=00000000&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praggyaverma&layout=compact&bg_color=00000000)
+
+
+## <img src="https://64.media.tumblr.com/159686dd4f5e62de03e18a3134e334cf/f3f25620bf23c51a-82/s75x75_c1/327fbf735740f3b81ec6a81d77010cfc9c21ec55.gifv" alt="GIF" width="30" height="30"/> &nbsp; My Hacktoberfest 2023 Holopin collection 🚀
+[![An image of @praggyav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praggyav)](https://holopin.io/@praggyav)
