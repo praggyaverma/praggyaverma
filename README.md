@@ -2,11 +2,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20there,%20I'm%20Praggya%20👋&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p> -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/ed50489dd4b4c72b707b662d3ff9cb3d/68d2ea2da25d500d-0d/s500x750/3fb9190e924a6cfc682d5db8218774908e0522e7.gifv" alt="GIF">
+</p>
 
-<img src="https://media.giphy.com/media/YrIq06kG5yrtxQEhj3/giphy.gif" alt="GIF" width="500"/>
 
-Praggya | 2nd year UG | ML/AI
-- 💻 Passionate about ML, currently working to expand my skill set
+<img src="https://64.media.tumblr.com/fc09dfd459019d27cc8055e54435ac54/222af3ae1ed96f5a-aa/s400x600/08856e33de7f602133a2e6fee64e4f2108aae72c.pnj" alt="GIF" width="20" height="20"/> **Praggya** | 2nd year UG | ML/AI
+
+<img src="https://64.media.tumblr.com/dcbccbbca61b5297f0d4d75c5c70360f/11d761a747d8e8da-d0/s640x960/908243a7722351ff6151cbe54f29813ecdc475c1.pnj" alt="GIF" width="20" height="20"/> Passionate about ML, currently working to expand my skill set
 - 🧩 Actively engaged in GDSC and IEEE student branch
 - 📂 Keen about FOSS and contributing to Open Source
 
