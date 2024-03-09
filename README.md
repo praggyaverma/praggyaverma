@@ -58,3 +58,7 @@ Developer Tools
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/praggyav)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/praggyaverma/)
 
+## <img src="https://64.media.tumblr.com/159686dd4f5e62de03e18a3134e334cf/f3f25620bf23c51a-82/s75x75_c1/327fbf735740f3b81ec6a81d77010cfc9c21ec55.gifv" alt="GIF" width="30" height="30"/> &nbsp; My Github Stats
+
+![Praggya's GitHub stats](https://github-readme-stats.vercel.app/api?username=praggyaverma&theme=radical_icons=true)
+
