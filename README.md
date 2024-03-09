@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello%20there,%20I'm%20Praggya%20👋&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p> -->
 <p align="center">
-<img src="https://64.media.tumblr.com/ea327bf76582cd658d5d41d8af35ca14/71e68437d230abce-ea/s75x75_c1/0cd443f8051f1813184eae61464b557de8cb7ea9.gifv" alt="GIF" width="35" height="35"/> Praggya | 2nd year Engineering UG | ML/AI <img src="https://64.media.tumblr.com/ea327bf76582cd658d5d41d8af35ca14/71e68437d230abce-ea/s75x75_c1/0cd443f8051f1813184eae61464b557de8cb7ea9.gifv" alt="GIF" width="35" height="35"/>
+<img src="https://64.media.tumblr.com/ea327bf76582cd658d5d41d8af35ca14/71e68437d230abce-ea/s75x75_c1/0cd443f8051f1813184eae61464b557de8cb7ea9.gifv" alt="GIF" width="35" height="35"/>
+</p> 
+<p align="center">
+  <b> Praggya | 2nd year Engineering UG | ML/AI </b>
 </p> 
 
 <p align="center">
@@ -11,7 +14,6 @@
 </p>
 
 
-<img src="https://64.media.tumblr.com/d0f698897262db6875e4bef7439fbba8/33d51ed7d89ecf73-3e/s75x75_c1/1faac9e2648b1cc9761ece04470dbb43c300eaf4.gifv" alt="GIF" width="20" height="20"/> **Praggya** | 2nd year Engineering UG | ML/AI <img src="https://64.media.tumblr.com/d0f698897262db6875e4bef7439fbba8/33d51ed7d89ecf73-3e/s75x75_c1/1faac9e2648b1cc9761ece04470dbb43c300eaf4.gifv" alt="GIF" width="20" height="20"/>
 
 <img src="https://64.media.tumblr.com/cafd8c6003afbcbc0e3f5a93d830fcd8/d53c7a749082b4f0-38/s75x75_c1/200a42501cf44840be5a15f1f426dfe974d18dee.gifv" alt="GIF" width="20" height="20"/> Passionate about ML, currently working to expand my skill set
 
