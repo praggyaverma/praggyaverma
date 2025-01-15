@@ -6,7 +6,7 @@
 <img src="https://64.media.tumblr.com/ea327bf76582cd658d5d41d8af35ca14/71e68437d230abce-ea/s75x75_c1/0cd443f8051f1813184eae61464b557de8cb7ea9.gifv" alt="GIF" width="35" height="35"/>
 </p> 
 <p align="center">
-  <b> Praggya | 2nd year Engineering UG | ML/AI </b>
+  <b> Praggya | 3rd year Engineering UG | ML/AI </b>
 </p> 
 
 <p align="center">
@@ -17,11 +17,9 @@
 
 <img src="https://64.media.tumblr.com/cafd8c6003afbcbc0e3f5a93d830fcd8/d53c7a749082b4f0-38/s75x75_c1/200a42501cf44840be5a15f1f426dfe974d18dee.gifv" alt="GIF" width="20" height="20"/> Passionate about ML, currently working to expand my skill set
 
-<img src="https://64.media.tumblr.com/5deca591c0e700477894b599c947ce69/41debc6b1661cb7f-e1/s75x75_c1/c6802c04bdae87b7f0ff6760c799477aee90a561.gifv" alt="GIF" width="20" height="20"/> Actively engaged in GDSC and IEEE student branch
+<img src="https://64.media.tumblr.com/5deca591c0e700477894b599c947ce69/41debc6b1661cb7f-e1/s75x75_c1/c6802c04bdae87b7f0ff6760c799477aee90a561.gifv" alt="GIF" width="20" height="20"/> Actively engaged in GDSC and GeeksforGeeks student branch
 
 <img src="https://64.media.tumblr.com/fae274f96a32154a7b54d356fb0373ac/d53c7a749082b4f0-b7/s75x75_c1/5a9ddb596c0a5027bf55ce8f29751d85a1fab6ff.gifv" alt="GIF" width="20" height="20"/> Keen about FOSS and contributing to Open Source
-
-<img src="https://64.media.tumblr.com/fc424449806a400e43a8ee97326a38d0/e6700a3400cdc814-0e/s75x75_c1/b46455c1edc5b89a51899c8197c4a63f11d6c087.gifv" alt="GIF" width="20" height="20"/> Working on a self-directed research project
 
 
 <!--## 📊 Tech Stacks-->
